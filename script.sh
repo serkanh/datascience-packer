@@ -11,3 +11,5 @@ curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
 sudo python3 get-pip.py --user
 sudo python3 -m pip install --upgrade pip
 sudo python3 -m pip install jupyter
+wget https://download2.rstudio.org/rstudio-server-1.1.456-amd64.deb
+sudo dpkg -i  rstudio-server-1.1.456-amd64.deb

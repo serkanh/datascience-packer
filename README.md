@@ -1,10 +1,10 @@
 #### Datascience Server
 
 Ubuntu 16.04
- - R Server
+ - R
  - Python 3
  - Jupyter
-
+ - R studio
 
 
 `packer build sci-lab-packer.json`
